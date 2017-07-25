@@ -1,5 +1,5 @@
 # investment calculator
-# Real Python Book Page 61 Assignment
+# Page 61 Assignment
 
 def invest(amount, rate, time):
 	print('principal amount: ${}'.format (amount))

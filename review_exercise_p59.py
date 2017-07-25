@@ -1,5 +1,3 @@
-# Real-Python-book
-
 # Review exercises for Page 59
 
 

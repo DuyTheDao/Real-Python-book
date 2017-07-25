@@ -1,4 +1,3 @@
-# exponent.py - Real Python Course
 # P. 48
 # Python 3.6
 # Duy Dao

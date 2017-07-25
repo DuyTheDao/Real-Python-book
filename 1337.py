@@ -1,7 +1,5 @@
-# Real-Python-book (page 45)
+# Review Exercise (page 45)
 # Leet Speak Script Python v3.6
-# This was created for the Real Python course
-# Duy Dao
 
 print (" D40'5 Python L33t 5p34k")
 word = input("Please enter a message: ")
